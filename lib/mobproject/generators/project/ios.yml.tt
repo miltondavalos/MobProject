@@ -1,0 +1,24 @@
+#=============================================================
+#IF YOU WISH TO HAVE MOBTEST BUILD YOUR APP PROVIDE:
+#=============================================================
+#workspace_path: 'THE PATH TO YOUR XCODE PROJECT WORKSPACE'
+#app: 'THEN NAME OF YOUR APPLICATION AS A .APP FILE'
+#app_path: ~
+#sim_sdk: 'SIMULATOR SDK VERSION'
+#E.G
+#:workspace_path: '~/Projects/MediaiOS/Media.xcworkspace'
+#:app: 'STATION.app'
+#:app_path: ~
+#:sim_sdk: 'iphonesimulator8.4'
+
+#======================================================================
+#IF YOU WISH TO TEST YOUR OWN COMPILED IOS APP ON A SIMULATOR PROVIDE:
+#======================================================================
+#:app_path: 'PATH TO YOUR .APP FILE'
+#E.G.:
+#:app_path: '~/Build/Products/Debug-iphonesimulator/STATION.app'
+
+#=============================================================
+#TODO - IF YOU WISH TO TEST ON A PHYSICAL DEVICE PROVIDE:
+#=============================================================
+#:bundle_id: 'YOUR BUNDLE ID'

@@ -1,0 +1,10 @@
+#TODO - look into building .apk on the fly
+#:apk: 'YOUR ANDROID APPLICATION PACKAGE'
+#:apk_path: 'PATH TO YOUR ANDROID APK'
+#:android_package: "YOUR APPLICATION'S PACKAGE"
+#:android_activity: "YOUR APPLICATION'S MAIN ACTIVITY"
+#E.G.:
+#:apk: 'app-STATION-debug-unaligned.apk'
+#:apk_path: '/Users/you/Downloads/app-STATION-debug-unaligned.apk'
+#:android_package: 'com.media.news.station'
+#:android_activity: 'com.mob.media.app.SplashActivity'
