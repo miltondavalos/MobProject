@@ -1,5 +1,5 @@
 # MobProject
-Command Line tool to create an automation project structure to test mobile applications. It relies on MobPage and MobManager Ruby gems
+Command Line tool to create an automation project structure to test mobile applications (Android and iOS). It relies on [MobPage](https://github.com/miltondavalos/MobPage) and [MobManager](https://github.com/miltondavalos/MobManager) Ruby gems. This framework uses Appium, Cucumber and Ruby.
 
 ## Installation
 gem install mobproject
